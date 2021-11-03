@@ -1,0 +1,16 @@
+C:\Users\2daw3\Div\dwes\prueba9\bin\Debug\net5.0\prueba9.exe
+C:\Users\2daw3\Div\dwes\prueba9\bin\Debug\net5.0\prueba9.deps.json
+C:\Users\2daw3\Div\dwes\prueba9\bin\Debug\net5.0\prueba9.runtimeconfig.json
+C:\Users\2daw3\Div\dwes\prueba9\bin\Debug\net5.0\prueba9.runtimeconfig.dev.json
+C:\Users\2daw3\Div\dwes\prueba9\bin\Debug\net5.0\prueba9.dll
+C:\Users\2daw3\Div\dwes\prueba9\bin\Debug\net5.0\ref\prueba9.dll
+C:\Users\2daw3\Div\dwes\prueba9\bin\Debug\net5.0\prueba9.pdb
+C:\Users\2daw3\Div\dwes\prueba9\obj\Debug\net5.0\prueba9.csproj.AssemblyReference.cache
+C:\Users\2daw3\Div\dwes\prueba9\obj\Debug\net5.0\prueba9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2daw3\Div\dwes\prueba9\obj\Debug\net5.0\prueba9.AssemblyInfoInputs.cache
+C:\Users\2daw3\Div\dwes\prueba9\obj\Debug\net5.0\prueba9.AssemblyInfo.cs
+C:\Users\2daw3\Div\dwes\prueba9\obj\Debug\net5.0\prueba9.csproj.CoreCompileInputs.cache
+C:\Users\2daw3\Div\dwes\prueba9\obj\Debug\net5.0\prueba9.dll
+C:\Users\2daw3\Div\dwes\prueba9\obj\Debug\net5.0\ref\prueba9.dll
+C:\Users\2daw3\Div\dwes\prueba9\obj\Debug\net5.0\prueba9.pdb
+C:\Users\2daw3\Div\dwes\prueba9\obj\Debug\net5.0\prueba9.genruntimeconfig.cache
